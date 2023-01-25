@@ -1,0 +1,14 @@
+POST http://localhost:5000/api/user/signup
+
+
+content-Type: application/json
+
+
+
+{
+    "name":"Isaiah122",
+     "email": "longare@gmail.com3456",
+     "password":"123456786565654"
+}
+
+
